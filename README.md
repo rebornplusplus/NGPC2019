@@ -1,11 +1,3 @@
-# NGPC2019
-
-National Girls' Programming Contest 2019 
-
-November 23, 2019
-
-Daffodil International University
-
-Hosted by: Toph & Ardent Programmers
+![](https://uploads.toph.co/arena-images/1570007152539447659-5792023559445812070-88b757133689ac02b9bafb12e73a7497.jpg)
 
 __For time and memory constraints, look for the zip from toph__
